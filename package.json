@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-source-graphql": "^1.0.2"
+  },
+  "keywords": [],
+  "name": "gridsome-remote-graphql-source",
+  "description": ""
+}
